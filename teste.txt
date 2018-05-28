@@ -1,3 +1,5 @@
 arquivo modificado
 
 linha adicionada
+
+outra linha adicionada
